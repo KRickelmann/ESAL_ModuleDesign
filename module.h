@@ -82,7 +82,8 @@
 //function prototypes ************
 
 //group1
-
+void SetupPins(char Port, uint8_t Pin);
+void SendLatch();
 //group2
 
 //group3
